@@ -1,4 +1,4 @@
 #tugas pak ravi pendikom
 "tugas individu"
 "pull"
-fetch 
+fetch perubahan baru
