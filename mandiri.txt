@@ -1,4 +1,5 @@
 #tugas pak ravi pendikom
 "tugas individu"
 "pull"
+"fetch"
 
