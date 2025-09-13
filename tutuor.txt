@@ -1,3 +1,4 @@
 #tutorial tugas pa ravi
 "balapan kah"
 "penjelasan pull"
+"penjelasan fetch"
